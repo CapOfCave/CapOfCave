@@ -14,4 +14,4 @@ I'm Lars, passionate software developer and currently doing my Bachelor of Scien
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CapOfCave&layout=compact)](https://github.com/CapOfCave/repositories)
-![](https://komarev.com/ghpvc/?CapOfCave)
+![Views since May 2021](https://komarev.com/ghpvc/?username=CapOfCave)

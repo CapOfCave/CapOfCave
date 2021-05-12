@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Lars, passionate software developer and currently doing my Bachelor of Science in Business Informatics in a cooperative study program at [Fiducia & GAD IT AG](https://www.fiduciagad.de/) and [HSW](https://www.hsw-hameln.de/en/).
+I'm Lars, passionate software developer and currently studying for a Bachelor of Science in Business Informatics in a cooperative study program at [Fiducia & GAD IT AG](https://www.fiduciagad.de/) and [HSW](https://www.hsw-hameln.de/en/).
 
 ---
 

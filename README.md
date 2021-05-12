@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**CapOfCave/CapOfCave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Lars, passionate software developer and currently doing my Bachelor of Science in Business Informatics in a cooperative study program at [Fiducia & GAD IT AG](https://www.fiduciagad.de/) and [HSW](https://www.hsw-hameln.de/en/).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔧 I’m currently working on [Lichess4J](https://github.com/CapOfCave/Lichess4J), an open source java wrapper for the lichess.org api
+- 🔭 I’m currently learning **Kotlin** and **Frontend Developement with React**
+- 📫 How to reach me:
+  * **Telegram**: [@larskecker](https://t.me/larskecker)
+  * **Email**: lars.kecker@gmail.com
+  * **Discord**: [CapOfCave#5962](https://discordapp.com/channels/@me/CapOfCave#5962/)
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CapOfCave&layout=compact)](https://github.com/CapOfCave/repositories)
+![](https://komarev.com/ghpvc/?CapOfCave)

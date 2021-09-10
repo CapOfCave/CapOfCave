@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Lars, passionate software developer and currently studying for a Bachelor of Science in Business Informatics in a cooperative study program at [Fiducia & GAD IT AG](https://www.fiduciagad.de/) and [HSW](https://www.hsw-hameln.de/en/).
+I'm Lars, passionate software developer and currently studying for a Bachelor of Science in Business Informatics in a cooperative study program at [Atruvia AG](https://atruvia.de/) and [HSW](https://www.hsw-hameln.de/en/).
 
 ---
 
@@ -9,7 +9,7 @@ I'm Lars, passionate software developer and currently studying for a Bachelor of
 - 📫 How to reach me:
   * **Telegram**: [@larskecker](https://t.me/larskecker)
   * **Email**: lars.kecker@gmail.com
-  * **Discord**: [CapOfCave#5962](https://discordapp.com/channels/@me/CapOfCave#5962/)
+  * **Discord**: CapOfCave#5962
 
 ---
 

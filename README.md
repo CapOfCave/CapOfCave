@@ -4,8 +4,8 @@ I'm Lars, passionate software developer and currently studying for a Bachelor of
 
 ---
 
-- 🔧 I’m currently working on [Lichess4J](https://github.com/CapOfCave/Lichess4J), an open source java wrapper for the lichess.org api
-- 🔭 I’m currently learning **DevOps** and **Frontend Developement using React**
+- 🔭 I’m currently learning **DevOps** and **Programming languages that are not Java**
+- 🔧 I’m also working on [visual-selector](https://github.com/CapOfCave/visual-selector), a way to get beautiful prompts in Java CLI tools
 - 📫 How to reach me:
   * **Telegram**: [@larskecker](https://t.me/larskecker)
   * **Email**: lars.kecker@gmail.com

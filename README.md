@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-I'm Lars, passionate software developer currently studying for a Bachelor of Science in Business Informatics in a cooperative study program at [Atruvia AG](https://atruvia.de/) and [HSW](https://www.hsw-hameln.de/en/).
+I'm Lars, a passionate software developer currently working as a Full Stack Software Engineer at [Atruvia AG](https://atruvia.de/).
 
 ---
 
 - 🔭 I’m currently learning **DevOps** and **programming languages that are not Java**
-- 🔧 I’m also working on [visual-selector](https://github.com/CapOfCave/visual-selector), a way to get beautiful prompts in Java CLI tools
+- 🔧 I’m also working on [cuberdle](https://github.com/CapOfCave/cuberdle), a wordle-inspired Rubik's Cube game written in plain ~~Javascript~~ Typescript. 
 - 📫 How to reach me:
   * **Telegram**: [@larskecker](https://t.me/larskecker)
   * **Email**: lars.kecker@gmail.com
